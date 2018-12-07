@@ -1,6 +1,7 @@
 html {
     box-sizing: border-box;
     height: 100%;
+	width:100%;
 }
 
 *,
@@ -58,3 +59,8 @@ h2 {
 #barcelona {
     background-color: #800000;
 }
+
+#florida {
+    background-color: #03a9f4;
+}
+
